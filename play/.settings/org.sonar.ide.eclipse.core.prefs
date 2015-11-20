@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://172.16.128.160\:19000\r\nsonar.jdbc.password\=sonar\r\nsonar.jdbc.username\=sonar\r\nsonar.jdbc.url\=jdbc\:mysql\://172.16.128.160\:3306/sonar\r\nsonar.jdbc.driver\=com.mysql.jdbc.Driver
+projectKey=com.hj\:play
+serverUrl=http\://172.16.128.160\:19000
+version=2
