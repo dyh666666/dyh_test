@@ -1,5 +1,7 @@
 package com.dyh.test;
 
+import java.util.Date;
+
 public class Man extends People {
 
     @Override
@@ -8,10 +10,8 @@ public class Man extends People {
         return null;
     }
 
-    public static void main(String[] args) {
-        System.out.println(1);
-      //  System.exit(0);
-        System.out.println(1);
+    public static void main(String[] args) throws InterruptedException {
+        System.out.println(new Date());
     }
 
 }
